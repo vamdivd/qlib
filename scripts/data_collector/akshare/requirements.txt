@@ -1,0 +1,8 @@
+akshare
+loguru
+fire
+tqdm
+joblib
+requests
+numpy
+pandas
